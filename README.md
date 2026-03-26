@@ -1,46 +1,12 @@
-# 👋 Hi, I'm Khiyam Bin Khalid
 
-🚀 Passionate Developer | 💻  Web Enthusiast | 📚SE Student  
-
----
-
-## 🔥 About Me
-- 🎓 Studying Software Engineering
-- 🤖 Working on WEB Projects
-- 🧠 Interested in Native App Development
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Khiyam-Bin-Khalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Khiyam-Bin-Khalid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khiyam-Bin-Khalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Khiyam-Bin-Khalid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- Python (Core Basic concepts)
-- JavaScript(React, Node+Express,Mongos+MySQL)
-
-### 🌐 Web Development
-- HTML, CSS
-- JavaScrip
-- React 
-
- 
-
-### 🛢️ Database
--Mongos
-- MySQL
-
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: khiyambinkhalid06@gmail.com
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/khiyam-bin-khalid-597684338/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvzfLjPXAScmDFyCuV43OoA%3D%3D)
-- 🌍 Portfolio: Coming Soon...
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

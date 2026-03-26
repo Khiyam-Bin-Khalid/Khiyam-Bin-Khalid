@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Khiyam Bin Khalid
 
-<!--
-**Khiyam-Bin-Khalid/Khiyam-Bin-Khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | 💻  Web Enthusiast | 📚SE Student  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 Studying Software Engineering
+- 🤖 Working on WEB Projects
+- 🧠 Interested in Native App Development
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python (Core Basic concepts)
+- JavaScript(React, Node+Express,Mongos+MySQL)
+
+### 🌐 Web Development
+- HTML, CSS
+- JavaScrip
+- React 
+
+ 
+
+### 🛢️ Database
+-Mongos
+- MySQL
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: khiyambinkhalid06@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/khiyam-bin-khalid-597684338/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvzfLjPXAScmDFyCuV43OoA%3D%3D)
+- 🌍 Portfolio: Coming Soon...
+
+
